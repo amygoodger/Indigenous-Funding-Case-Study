@@ -10,11 +10,11 @@ The analysis is split into two parts:
 Focuses on the overall distribution of Advance Queensland funds between South-East Queensland and Regional Queensland, particularly during and after the COVID-19 pandemic. The aim was to understand trends in funding allocation and how the program adapted to support economic resilience during uncertain times.
 
 ### Part B
-Builds on the findings of Part A by analyzing the imbalance between funding received by Indigenous and non-Indigenous recipients. This part extends the analysis by utilizing unstructured data from the Guardian API and applying machine learning techniques to explore funding patterns in more detail.
+Builds on the findings of Part A by analysing the imbalance between funding received by Indigenous and non-Indigenous recipients. This part extends the analysis by utilising unstructured data from the Guardian API and applying machine learning techniques to explore funding patterns in more detail.
 
 ## Key Techniques Used
 - **Descriptive Statistics:** Provided an initial understanding of the data, including the distribution of funds across regions and demographics.
-- **Natural Language Processing (NLP):** Employed for analyzing unstructured data from news articles to identify discussions surrounding Indigenous funding, and assess the public discourse around this topic.
+- **Natural Language Processing (NLP):** Employed for analysing unstructured data from news articles to identify discussions surrounding Indigenous funding, and assess the public discourse around this topic.
 - **Topic Modelling (TF-IDF & NMF):** Used to uncover hidden themes in media coverage and provide insights into the societal conversation on funding imbalances.
 - **Clustering Analysis:** Applied to further investigate funding distribution patterns across regions and groups.
 
@@ -28,4 +28,4 @@ Builds on the findings of Part A by analyzing the imbalance between funding rece
 The project highlights a significant imbalance in the distribution of funds between Indigenous and non-Indigenous recipients within the Advance Queensland Program. While funding disparities can be attributed to factors like population size and economic activity, the analysis suggests that Indigenous communities require additional targeted support. The findings call for a reassessment of funding allocation strategies to ensure Indigenous communities receive equitable support to drive economic development, innovation, and job creation.
 
 ## Ethical Considerations
-Ethical considerations were carefully taken into account, particularly when handling unstructured data. Potential biases from media sources were mitigated by using a variety of articles and analyzing multiple modelling approaches. The identification of Indigenous-focused programs was based on keyword searches, but this may have introduced some inaccuracies in classifying relevant programs.
+Ethical considerations were carefully taken into account, particularly when handling unstructured data. Potential biases from media sources were mitigated by using a variety of articles and analysing multiple modelling approaches. The identification of Indigenous-focused programs was based on keyword searches, but this may have introduced some inaccuracies in classifying relevant programs.
