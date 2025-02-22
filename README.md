@@ -1,7 +1,7 @@
-# Indigenous-Funding-Case-Study
+# Regional Analysis of Funding: Indigenous vs. Non-Indigenous
 
 ## Overview
-The Indigenous Funding Case Study explores the allocation of public funds from the Queensland Government’s Advance Queensland Program, particularly focusing on funding disparities between Indigenous and non-Indigenous recipients. This project investigates how funds were distributed across different regions, especially in response to the economic recovery efforts after the COVID-19 pandemic, and assesses whether the program adequately supports Indigenous communities.
+The Regional Analysis of Funding: Indigenous vs. Non-Indigenous Case Study explores the allocation of public funds from the Queensland Government’s Advance Queensland Program, particularly focusing on funding disparities between Indigenous and non-Indigenous recipients. This project investigates how funds were distributed across different regions, especially in response to the economic recovery efforts after the COVID-19 pandemic, and assesses whether the program adequately supports Indigenous communities.
 
 ## Project Structure
 The analysis is split into two parts:
